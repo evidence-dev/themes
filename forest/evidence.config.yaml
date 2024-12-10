@@ -1,0 +1,31 @@
+appearance:
+  default: system
+  switcher: true
+
+# Forest theme
+theme:
+  colorPalettes:
+    default:
+      - "#556b2f"  # Dark Olive Green
+      - "#6b8e23"  # Olive Drab
+      - "#8fbc8f"  # Dark Sea Green
+      - "#2e8b57"  # Sea Green
+      - "#3cb371"  # Medium Sea Green
+      - "#66cdaa"  # Medium Aquamarine
+      - "#20b2aa"  # Light Sea Green
+      - "#008b8b"  # Dark Cyan
+      - "#5f9ea0"  # Cadet Blue
+      - "#4682b4"  # Steel Blue
+  colors:
+    primary:
+      light: "#32cd32"  # Lime Green
+      dark: "#3cb371"  # Medium Sea Green
+    accent:
+      light: "#8fbc8f"  # Dark Sea Green
+      dark: "#556b2f"  # Dark Olive Green
+    base:
+      light: "#f0fff0"  # Honeydew
+      dark: "#2f4f4f"  # Dark Slate Gray
+    info:
+      light: "#3cb371"  # Medium Sea Green
+      dark: "#5f9ea0"  # Cadet Blue
