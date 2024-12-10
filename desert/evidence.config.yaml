@@ -1,7 +1,3 @@
-appearance:
-  default: system
-  switcher: true
-
 # Desert theme
 theme:
   colorPalettes:

@@ -1,7 +1,3 @@
-appearance:
-  default: system
-  switcher: true
-
 # Forest theme
 theme:
   colorPalettes:
@@ -25,7 +21,7 @@ theme:
       dark: "#556b2f"  # Dark Olive Green
     base:
       light: "#f0fff0"  # Honeydew
-      dark: "#2f4f4f"  # Dark Slate Gray
+      dark: "#1a2f2f"  # Darker Slate Gray
     info:
       light: "#3cb371"  # Medium Sea Green
       dark: "#5f9ea0"  # Cadet Blue
