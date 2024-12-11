@@ -1,0 +1,53 @@
+# Plasma theme
+# Based on Plasma colormap (CC0 License) by S. van der Walt and N. Smith, available at https://github.com/BIDS/colormap
+theme:
+  colorPalettes:
+    default:
+      - "#0d0887"
+      - "#3e049c"
+      - "#6300a7"
+      - "#8606a6"
+      - "#a62098"
+      - "#c03a83"
+      - "#d5546e"
+      - "#e76f5a"
+      - "#f68d45"
+      - "#fdae32"
+      - "#fcd225"
+      - "#f0f921"
+  colorScales:
+    default:
+      - "#0d0887"
+      - "#3e049c"
+      - "#6300a7"
+      - "#8606a6"
+      - "#a62098"
+      - "#c03a83"
+      - "#d5546e"
+      - "#e76f5a"
+      - "#f68d45"
+      - "#fdae32"
+      - "#fcd225"
+      - "#f0f921"
+  colors:
+    primary:
+      light: "#6300a7"  # Plasma Purple
+      dark: "#6300a7"  # Plasma Purple
+    accent:
+      light: "#f68d45"  # Plasma Orange
+      dark: "#f68d45"  # Plasma Orange  
+    base:
+      light: "#ffffff"  # White
+      dark: "#000000"  # Black
+    info:
+      light: "#0d0887"  # Plasma Deep Blue
+      dark: "#0d0887"  # Plasma Deep Blue
+    warning:
+      light: "#fcd225"  # Plasma Yellow
+      dark: "#fcd225"  # Plasma Yellow
+    negative:
+      light: "#e76f5a"  # Plasma Red
+      dark: "#e76f5a"  # Plasma Red
+    positive:
+      light: "#a62098"  # Plasma Magenta
+      dark: "#a62098"  # Plasma Magenta

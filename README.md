@@ -5,8 +5,9 @@ This repository contains a collection of pre-made themes for Evidence.
 - [Default](#default)
 - [Desert](#desert)
 - [Forest](#forest)
-- [Retro](#retro)
 - [Mono](#mono)
+- [Plasma](#plasma)
+- [Retro](#retro)
 
 Each theme includes both light and dark mode variants.
 
@@ -41,14 +42,6 @@ Each theme includes both light and dark mode variants.
 | :---: | :---: |
 | ![forest](forest/forest-light.png) | ![forest](forest/forest-dark.png) |
 
-## Retro
-
-[Retro Config](retro/evidence.config.yaml)
-
-| Light | Dark |
-| :---: | :---: |
-| ![retro](retro/retro-light.png) | ![retro](retro/retro-dark.png) |
-
 ## Mono
 
 [Mono Config](mono/evidence.config.yaml)
@@ -56,3 +49,19 @@ Each theme includes both light and dark mode variants.
 | Light | Dark |
 | :---: | :---: |
 | ![mono](mono/mono-light.png) | ![mono](mono/mono-dark.png) |
+
+## Plasma
+
+[Plasma Config](plasma/evidence.config.yaml)
+
+| Light | Dark |
+| :---: | :---: |
+| ![plasma](plasma/plasma-light.png) | ![plasma](plasma/plasma-dark.png) |
+
+## Retro
+
+[Retro Config](retro/evidence.config.yaml)
+
+| Light | Dark |
+| :---: | :---: |
+| ![retro](retro/retro-light.png) | ![retro](retro/retro-dark.png) |
