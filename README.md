@@ -12,10 +12,8 @@ This repository contains a collection of pre-made themes for Evidence.
 Each theme includes both light and dark mode variants.
 
 **To use a theme:**
-- Copy the `theme:` section from that theme's config file into your project's `evidence.config.yaml` file
+- Copy the `theme` config into your project's `evidence.config.yaml` 
 - Restart Evidence for the changes to take effect.
-
-
 
 ## Default
 
