@@ -1,0 +1,41 @@
+# Retro theme
+theme:
+  colorPalettes:
+    default:
+      - "#009ddc"  # Blue
+      - "#963d97"  # Purple
+      - "#e03a3e"  # Red
+      - "#f5821f"  # Orange
+      - "#fdb827"  # Yellow
+      - "#61bb46"  # Green
+      - "#ffcc00"  # Gold
+      - "#ff7f50"  # Coral
+      - "#ff6347"  # Tomato
+      - "#ff4500"  # Orange Red
+      - "#da70d6"  # Orchid
+  colorScales:
+    default:
+      - "#009ddc"  # Blue
+      - "#e03a3e"  # Red
+  colors:
+    primary:
+      light: "#009ddc"  # Blue
+      dark: "#009ddc"  # Blue
+    accent:
+      light: "#e03a3e"  # Red
+      dark: "#e03a3e"  # Red
+    base:
+      light: "#F8F5EE" # Paper
+      dark: "#09090b" # Dark
+    info:
+      light: "#009ddc"  # Blue
+      dark: "#009ddc"  # Blue
+    warning:
+      light: "#fdb827"  # Yellow
+      dark: "#fdb827"  # Yellow
+    negative:
+      light: "#e03a3e"  # Red
+      dark: "#e03a3e"  # Red
+    positive:
+      light: "#61bb46"  # Green
+      dark: "#61bb46"  # Green

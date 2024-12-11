@@ -1,0 +1,45 @@
+# Mono theme
+theme:
+  colorPalettes:
+    default:
+      light:
+        - "#000000"  # Black
+        - "#444444"  # 25% Gray
+        - "#888888"  # 50% Gray
+        - "#CCCCCC"  # 75% Gray
+
+      dark:
+        - "#FFFFFF"  # White
+        - "#CCCCCC"  # 75% Gray
+        - "#888888"  # 50% Gray
+        - "#444444"  # 25% Gray
+  colorScales:
+    default:
+      light:
+        - "#000000"  # Black
+        - "#CCCCCC"  # Lighter Gray
+      dark:
+        - "#FFFFFF"  # White
+        - "#333333"  # Dark Gray
+  colors:
+    primary:
+      light: "#000000"  # Black
+      dark: "#FFFFFF"  # White
+    accent:
+      light: "#333333"  # Dark Gray
+      dark: "#CCCCCC"  # Lighter Gray
+    base:
+      light: "#FFFFFF"  # White
+      dark: "#000000"  # Black
+    info:
+      light: "#666666"  # Gray
+      dark: "#999999"  # Light Gray
+    warning:
+      light: "#999999"  # Light Gray
+      dark: "#666666"  # Gray
+    negative:
+      light: "#333333"  # Dark Gray
+      dark: "#CCCCCC"  # Lighter Gray
+    positive:
+      light: "#CCCCCC"  # Lighter Gray
+      dark: "#333333"  # Dark Gray

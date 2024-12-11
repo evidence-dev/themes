@@ -1,12 +1,20 @@
 # Evidence Sample Themes
 
-This repository contains a collection of pre-made themes for Evidence. To use a theme:
+This repository contains a collection of pre-made themes for Evidence. 
 
-1. Choose a theme from the options below
-2. Copy the `theme:` section from that theme's `evidence.config.yaml` file
-3. Paste it into your project's `evidence.config.yaml` to override the default theme
+- [Default](#default)
+- [Desert](#desert)
+- [Forest](#forest)
+- [Retro](#retro)
+- [Mono](#mono)
 
 Each theme includes both light and dark mode variants.
+
+**To use a theme:**
+- Copy the `theme:` section from that theme's config file into your project's `evidence.config.yaml` file
+- Restart Evidence for the changes to take effect.
+
+
 
 ## Default
 
@@ -32,3 +40,19 @@ Each theme includes both light and dark mode variants.
 | Light | Dark |
 | :---: | :---: |
 | ![forest](forest/forest-light.png) | ![forest](forest/forest-dark.png) |
+
+## Retro
+
+[Retro Config](retro/evidence.config.yaml)
+
+| Light | Dark |
+| :---: | :---: |
+| ![retro](retro/retro-light.png) | ![retro](retro/retro-dark.png) |
+
+## Mono
+
+[Mono Config](mono/evidence.config.yaml)
+
+| Light | Dark |
+| :---: | :---: |
+| ![mono](mono/mono-light.png) | ![mono](mono/mono-dark.png) |
