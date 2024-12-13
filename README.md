@@ -4,6 +4,7 @@ This repository contains a collection of pre-made themes for Evidence.
 
 - [Default](#default)
 - [Desert](#desert)
+- [Dracula](#dracula)
 - [Forest](#forest)
 - [Mono](#mono)
 - [Plasma](#plasma)
@@ -31,6 +32,15 @@ Each theme includes both light and dark mode variants.
 | :---: | :---: |
 | ![desert](desert/desert-light.png) | ![desert](desert/desert-dark.png) |
 
+## Dracula
+
+[Dracula Config](dracula/evidence.config.yaml)
+
+> Note: Dracula is a dark only theme
+
+| Light | Dark |
+| :---: | :---: |
+| ![dracula](dracula/dracula-dark.png) | ![dracula](dracula/dracula-dark.png) |
 
 ## Forest
 
